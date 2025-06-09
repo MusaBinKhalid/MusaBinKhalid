@@ -1,5 +1,6 @@
-# 🚀 Hello World!, I'm Musa, a Beginner Developer ✌:
-🎓 Student Developer | 🛠️ Building real-world apps Making apps that don’t crash... yet.
+# 🚀 Hello World! I'm Musa ✌  
+🎓 Student learning C, Python & web dev  
+🛠️ Building real-world apps (that *mostly* work 😅)
 
 
 # 💻 Tech Stack:
