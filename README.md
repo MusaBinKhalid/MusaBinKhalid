@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Coder in training
+🎓 Student Developer | 🛠️ Building real-world apps Making apps that don’t crash... yet.
 
 
 # 💻 Tech Stack:
