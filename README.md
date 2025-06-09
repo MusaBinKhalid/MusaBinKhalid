@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 Hello World!, I'm Musa, a Beginner Developer ✌:
 🎓 Student Developer | 🛠️ Building real-world apps Making apps that don’t crash... yet.
 
 
