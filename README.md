@@ -1,6 +1,5 @@
 # 🚀 Hello World! I'm Musa ✌  
-🎓 Student learning C, Python & web dev  
-🛠️ Building real-world apps (that *mostly* work 😅)
+🎓 Student learning Programming  
 
 
 # 💻 Tech Stack:
